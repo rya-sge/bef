@@ -3,7 +3,7 @@ layout: post
 title: "Cryptographie"
 img: cry1.PNG
 date: 2021-08-07
-description:  
+description: Fermat-Euler, Lagrange, RSA, Diffie-Hellman... 
 tag: [rsa, el-gamal, dsa, crt, lagrange, fermat, euler, pki, tls]
 ---
 Le cours de cryptographie suivi à l'HEIG portait sur le contenu suivant :
