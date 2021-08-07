@@ -9,12 +9,12 @@ baseurl:  # "/bef"the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
+video:  # add banner video. Add your video file to the folder video
 banner-title: # add banner title
 banner-desc: # add banner description
 
 # Author settings
-author-pic: face.jpg # your photo
+author-pic: face.PNG # your photo
 author-name: Ryan Sauge #your name
 about-author: Edudiant en sécurité informatique à l'HEIG # about author
 email: ryan.sauge[AT]protonmail.com # your email
