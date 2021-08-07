@@ -84,9 +84,9 @@ layout: default
       </div>
     </div>
   </section> <!-- End Section Recent Box -->
-  
+  {% if site.discus_identifier %}
   {% include disqus.html %}
-  
+  {% endif %}
 </main> <!-- End Section Post Content -->
 
 {% include footer.html %}
