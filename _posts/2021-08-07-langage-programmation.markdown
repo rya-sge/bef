@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Programmation : C, C++, Java, Python et bien d'autres"
-img: nevada.jpg # Add image post (optional)
-date: 2017-07-12 12:50:00 +0300
+img: java-logo.png # Add image post (optional)
+date: 2021-08-07
 description: test
 tag: [programmation, c++, C, Php, mysql, assembleur, python]
 ---
