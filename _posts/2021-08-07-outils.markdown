@@ -12,13 +12,24 @@ Ce logiciel fut utilisé dans le cadre du cours de sécurité logiciel afin anal
 
 ## Klee
 
-Klee a été utilisé afin de trouver des bugs ou vulnérabilités dans les programmes
+Klee est un outil permettant d'effectuer des analyses concoliques sur des programmes.  Lors du cours de sécurité logiciel, j'ai pu suivre les tutoriels et l'employer sur quelques programmes.
+
+Un article est disponible sur mon site : [access-denied - klee-introduction](https://rya-sge.github.io/access-denied/2021/05/11/klee-introduction/)
+
+
 
 ## AFL
 
-AFL a été utilisé afin de trouver des bugs ou vulnérabilités dans les programmes
+AFL permet de tester un programme en y injectant des données. J'ai pu  assimiler son utilisation durant le cours de sécurité logicielle en le testant sur plusieurs programmes.
 
-## Metasploit
+Un article est disponible sur mon site : [access-denied - fuzzer-afl](https://rya-sge.github.io/access-denied/2021/06/05/fuzzer-afl/)
 
-Metasploit a été utilisé  dans le cadre du cours de sécurité des Système d'exploitations lors de laboratoire sur Windows. Il fallait l'utiliser pour prendre le contrôle d'un active directory à partir de la vulnérabilité Eternal Blue.
 
+
+## Metasploit & Mimikatz
+
+Metasploit a été utilisé  dans le cadre du cours de sécurité des Système d'exploitations lors de laboratoire sur Windows. Il fallait l'utiliser pour prendre le contrôle d'un active directory à partir de la vulnérabilité Eternal Blue. Par la même occasion, j'ai pu prendre connaissances des fonctionnalités de Mimikatz.
+
+Un article est disponible sur mon site : [access-denied - metasploit-meterpreter-migrate/](https://rya-sge.github.io/access-denied/2021/05/16/metasploit-meterpreter-migrate/)
+
+Un article est disponible sur mon site : [access-denied - mimikatz-afficher-logs](https://rya-sge.github.io/access-denied/2021/05/18/mimikatz-afficher-logs/)

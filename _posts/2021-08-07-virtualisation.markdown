@@ -2,8 +2,8 @@
 layout: post
 title: "Virtualisation et conteneur"
 img: docker-logo.png 
-date: 2017-07-12 12:55:00 +0300
-description: 
+date: 2021-08-07 
+description: Docker, VMWare, VirtualBox
 tag: [docker, wmware, virtualBox]
 ---
 
@@ -12,5 +12,9 @@ Lors de mon CFC et de mes études en Bachelor, j'ai pu utilisé 3 logiciels de v
 
 - Docker
 
-- VMWare
+Un article est disponible sur mon site : [access-denied - docker-en-bref](https://rya-sge.github.io/access-denied/2021/05/11/docker-en-bref/)
+
+- VMware
 - ViritualBox
+
+Un article est disponible sur mon site : [access-denied - virtualbox-augmenter-stockage](https://rya-sge.github.io/access-denied/2021/05/11/virtualbox-augmenter-stockage/)
