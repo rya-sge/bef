@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Programmation : C, C++, Java, Python et bien d'autres"
-img: java-logo2.png # Add image post (optional)
+img: python-coding-6205177_1920.png
 date: 2021-08-07
 description: test
 tag: [programmation, c++, C, Php, mysql, assembleur, python]
@@ -97,3 +97,9 @@ J'ai suivi un cours de programmation assembleur à l'HEIG-D. Le cours comprenait
   (valeurs, adresses)
 
 L'assembleur était également au programme du cours de sécurité logicielle où il fallait comprendre le fonctionnement des programmes avec le logiciel Ghidra afin d'y trouver des vulnérabilités.
+
+
+
+Image de couverture
+
+Image par <a href="https://pixabay.com/fr/users/jmexclusives-10518280/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6205177">Joseph Mucira</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6205177">Pixabay</a>
