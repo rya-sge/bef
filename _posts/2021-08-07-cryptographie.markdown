@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cryptographie"
-img: cryptography-1091254_1920.jpg
+img: cryptography-1091256_1920.jpg
 date: 2021-08-07
 description: Fermat-Euler, Lagrange, RSA, Diffie-Hellman... 
 tag: [rsa, el-gamal, dsa, crt, lagrange, fermat, euler, pki, tls]
@@ -36,4 +36,4 @@ Le langage utilisé dans les laboratoires étaient le python, avec également l'
 
 Source de l'image en couverture  :
 
-Image par <a href="https://pixabay.com/fr/users/tumbledore-1767790/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1091254">tumbledore</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1091254">Pixabay</a>
+Image par <a href="https://pixabay.com/fr/users/tumbledore-1767790/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1091256">tumbledore</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1091256">Pixabay</a>

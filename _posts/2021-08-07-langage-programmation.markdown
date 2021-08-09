@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Programmation : C, C++, Java, Python et bien d'autres"
-img: java-logo.png # Add image post (optional)
+img: java-logo2.png # Add image post (optional)
 date: 2021-08-07
 description: test
 tag: [programmation, c++, C, Php, mysql, assembleur, python]
@@ -12,7 +12,7 @@ tag: [programmation, c++, C, Php, mysql, assembleur, python]
 
 ### C++
 
-Le c++ fut très présent durant mes divers cours. C'était le langage utilisé lors de nos cours algorithme. Souvent en équipe de 3 étudiants, j'ai pu développer
+Le C++ fut très présent durant mes divers cours. C'était le langage utilisé lors de nos cours algorithme. Souvent en équipe de 3 étudiants, j'ai pu développer
 
 - Un correcteur orthographique
 - Résoudre un taquin
@@ -20,7 +20,7 @@ Le c++ fut très présent durant mes divers cours. C'était le langage utilisé 
 
 Notion théorique vue :
 
-- Pointeurs partagés(Shared pointeur, Weak pointeur)
+- Pointeurs partagés (Shared pointeur, Weak pointeur)
 - Librairie Algotihm
 - Vector, Stack,
 - Template
@@ -78,7 +78,7 @@ Le MySql fut utilisé lors de mes différents créations des site webs ainsi que
 
 ### Javascript
 
-J'ai programmé en Javascript durant mon CFC et occasionnellement pour les différents site webs créees.
+J'ai programmé en Javascript durant mon CFC et occasionnellement pour les différents site webs créées.
 
 
 

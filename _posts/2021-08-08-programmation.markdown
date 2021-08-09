@@ -1,15 +1,43 @@
 ---
 layout: post
-title: "Programmation"
-img: canyon.jpg # Add image post (optional)
-date: 2017-07-04 12:54:00 +0300
+title: "Algorithme & Programmation"
+img: texture-3319946_1920.jpg
+date: 2021-08-08
 description: Algortihme, Tri
 tag: [Travel, Texas, Canyon]
 ---
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+Algorithme
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+- appliquer les parcours en profondeur et en largeur sur des graphes non pondérés, orientés ou non ;
+- appliquer les parcours ARPM et ACPC sur des graphes pondérés, orientés ou non ;
+- calculer les composantes fortement connexes d'un graphe orienté ;
+- utiliser, implémenter et appliquer les fonctions de hachage et implémenter et utiliser les tables de recherche;
+- analyser la complexité des opérations sur les tables de recherche et choisir la structure optimale;
+- appliquer les algorithmes d'insertion et de suppression avec rééquilibrages sur des arbres AVL ;
+- appliquer les algorithmes d'insertion et de suppression sur des B-trees;
+- analyser et connaître les complexités des algorithmes étudiés au cours;
+- acquérir de l'expérience dans l'analyse et la conception de code, la détection et la correction d'erreurs de programmation; exercer la rédaction de rapports de laboratoire (taille moyenne); concevoir et développer des applications de taille moyenne, étudier des sujets plus conséquents algorithmiques.
+
+Cours :
+
+- Graphes : 
+  - récapitulation sur la représentation par matrice de contiguïté et par listes d'adjacence; 
+  - cheminements et connexités (notions de chemin, chaine, cycle et circuit, fermeture transitive d'un graphe, notions de connexité, notion de graphe eulérien, notion de graphe hamiltonien); 
+  - arbres et arborescences;
+  -  parcours de graphes: arborescence couvrante associée à un parcours, parcours en largeur, applications du parcours en largeur (composantes connexes d'un graphe non orienté, chercher le plus court chemin, sommets accessibles à partir d'un sommet initial), parcours en profondeur, applications du parcours en profondeur (recherche de circuits, tri topologique des sommets d'un graphe orienté, recherche des composantes fortement connexes d'un graphe orienté); 
+  - plus courts chemins: définitions, algorithme de Dijkstra, algorithme de Bellman-Ford;
+  - arbres couvrants minimaux: algorithme de Kruskal, algorithme de Prim; complexités des algorithmes étudiés. 
+
+- Tables et recherche, définitions, recherches séquentielle, dichotomique et par arbre de recherche, fonction de hachage, hachage ouvert et fermé, complexité des algorithmes étudiés, réalisation 
+
+- Arbres équilibrés : arbres AVL, algorithmes d'insertion et de suppression d'éléments avec rééquilibrage, complexité des algorithmes étudiés 	 
+- B-arbres: algorithmes d'insertion et de suppression, complexité des algorithmes étudiés
+- Applications, étude de cas, codage, exercices de récapitulation 
+
+
+
+Source image de couverture
+
+Image par <a href="https://pixabay.com/fr/users/gam-ol-2829280/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3319946">Oleg Gamulinskiy</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3319946">Pixabay</a>
