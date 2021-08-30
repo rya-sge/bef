@@ -2,7 +2,7 @@
 layout: post
 title: "Génie logiciel"
 img:
-date: 
+date: 2021-08-31 
 description: 
 tag: [génie, logiciel]
 ---
