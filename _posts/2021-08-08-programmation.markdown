@@ -7,35 +7,80 @@ description: Algortihme, Tri
 tag: [Travel, Texas, Canyon]
 ---
 
-## Algorithme
+Lors de mon bachelor, j'ai pu suivre plusieurs cours d'algorithme et de programmation.
 
+Les laboratoires étaient effectués en C++.
+
+Certaines notion vues ont pu également être entrainée en Java, voire pour certaines en Assembleur.
+
+## Algorithme 1
+
+### Part 1 : introduction
+
+- concevoir un type de données abstrait à partir de spécifications données en langage naturel;
+- expliquer la notion de complexité et l'illustrer sur des cas simples ;
+- Récursivité, règles de la récursivité, comparaison avec l'itération, exemples, complexités 
+- concevoir et réaliser des algorithmes et des structures de données récursifs ou non ;
+- analyser et expliquer un algorithme ou une structure de données ;
+- choisir et justifier le choix d'un algorithme ou d'une structure de données ;
+
+### Part 2 : tri, structure et graphe
+
+- choisir un algorithme de tri,  expliquer son fonctionnement et étudier sa complexité :  tri à bulles, tri par sélection, tri par insertion, tri rapide, tri par fusion, tri de shell, tri par tas;
+- concevoir une structure linéaire particulière de manière statique ou dynamique ;
+  - Structures linéaires, listes simples, listes doubles, multilistes, piles, queues, queues de
+    priorité, tas, complexité des algorithmes étudiés, réalisation statique et dynamique 12
+- appliquer les parcours d'arbre sur des exemples concrets : arbres binaires, arbres arbitraires, arbres de recherche ;
+- appliquer les algorithmes d'insertion et de suppression d'éléments dans un arbre binaire et un arbre de recherche;
 - appliquer les parcours en profondeur et en largeur sur des graphes non pondérés, orientés ou non ;
+- appliquer les parcours ARPM et ACPC sur des graphes pondérés, orientés ou non ;
+- calculer les composantes fortement connexes d'un graphe orienté ;
+
+
+
+## Algorithme 2
+
+### Graphe
+
+- récapitulation sur la représentation par matrice de contiguïté et par listes d'adjacence; 
+- cheminements et connexités (notions de chemin, chaine, cycle et circuit, fermeture transitive d'un graphe, notions de connexité, notion de graphe eulérien, notion de graphe hamiltonien); 
+- appliquer les parcours en profondeur et en largeur sur des graphes non pondérés, orientés ou non ;
+- plus courts chemins: définitions, algorithme de Dijkstra, algorithme de Bellman-Ford;
 - appliquer les parcours d'arbre recouvrant de poids minimum (ARPM) sur des graphes pondérés, orientés ou non ;
+  -  algorithme de Kruskal, algorithme de Prim; complexités des algorithmes étudiés. 
 - Appliquer le parcours d' arbre couvrant minimum (ACPC ) sur des graphes pondérés, orientés ou non;
 - calculer les composantes fortement connexes d'un graphe orienté ;
+
+### Fonctions de hachage, AVL, B-trees
+
 - utiliser, implémenter et appliquer les fonctions de hachage et implémenter et utiliser les tables de recherche;
+  -  définitions, recherches séquentielle, dichotomique et par arbre de recherche, fonction de hachage, hachage ouvert et fermé, complexité des algorithmes étudiés, réalisation 
 - analyser la complexité des opérations sur les tables de recherche et choisir la structure optimale;
 - appliquer les algorithmes d'insertion et de suppression avec rééquilibrages sur des arbres AVL ;
 - appliquer les algorithmes d'insertion et de suppression sur des B-trees;
+
+### Général
+
 - analyser et connaître les complexités des algorithmes étudiés au cours;
 - acquérir de l'expérience dans l'analyse et la conception de code, la détection et la correction d'erreurs de programmation;
 - exercer la rédaction de rapports de laboratoire (taille moyenne); 
 - concevoir et développer des applications de taille moyenne, étudier des sujets plus conséquents algorithmiques.
 
-## Cours :
+## Cours 
 
 - Graphes : 
-  - récapitulation sur la représentation par matrice de contiguïté et par listes d'adjacence; 
-  - cheminements et connexités (notions de chemin, chaine, cycle et circuit, fermeture transitive d'un graphe, notions de connexité, notion de graphe eulérien, notion de graphe hamiltonien); 
-  -  parcours de graphes: arborescence couvrante associée à un parcours, parcours en largeur, applications du parcours en largeur (composantes connexes d'un graphe non orienté, chercher le plus court chemin, sommets accessibles à partir d'un sommet initial), parcours en profondeur, applications du parcours en profondeur (recherche de circuits, tri topologique des sommets d'un graphe orienté, recherche des composantes fortement connexes d'un graphe orienté); 
-  - plus courts chemins: définitions, algorithme de Dijkstra, algorithme de Bellman-Ford;
-  - arbres couvrants minimaux: algorithme de Kruskal, algorithme de Prim; complexités des algorithmes étudiés. 
+  - parcours de graphes: 
+
+    -  arborescence couvrante associée à un parcours, 
+    -  parcours en largeur, 
+    -  applications du parcours en largeur (composantes connexes d'un graphe non orienté, chercher le plus court chemin, sommets accessibles à partir d'un sommet initial), 
+    -  parcours en profondeur, 
+    -  applications du parcours en profondeur (recherche de circuits, tri topologique des sommets d'un graphe orienté, recherche des composantes fortement connexes d'un graphe orienté); 
+
+    
+
   
-- Tables et recherche, définitions, recherches séquentielle, dichotomique et par arbre de recherche, fonction de hachage, hachage ouvert et fermé, complexité des algorithmes étudiés, réalisation 
 
-   
-
-- 
 
 
 
