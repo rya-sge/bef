@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Génie logiciel"
-img:
+img: whiteboard-4054377_1920.jpg
 date: 2021-08-31 
 description: 
 tag: [génie, logiciel]
@@ -39,3 +39,8 @@ Lors de mon bachelor, j'ai pu suivre présentant les principales notions ainsi q
   - Introduction : exemples d'erreurs et de tests typiques, types de tests, étapes du test 
   - Activités de test : planification, conception, procédure de test, évaluation des résultats 
   - Test unitaire : JUnit
+  
+  Source de l'image de couverture :
+  
+  Image par <a href="https://pixabay.com/fr/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4054377">Gerd Altmann</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4054377">Pixabay</a>
+
