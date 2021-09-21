@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Programmation : C, C++, Java, Python et bien d'autres"
-img: python-coding-6205177_1920.png
+img: software-557615_960_720.jpg
 date: 2021-08-07
 description: test
 tag: [programmation, c++, C, Php, mysql, assembleur, python]
@@ -9,6 +9,8 @@ tag: [programmation, c++, C, Php, mysql, assembleur, python]
 
 
 ## Langages principaux
+
+IDE : NetBeans, CLion
 
 ### C++
 
@@ -29,6 +31,8 @@ Notion théorique vue :
 
 ### C
 
+IDE : NetBeans, Code::Blocks
+
 Le C a été beaucoup utilisé pour travailler les cours d'embarqués, notamment :
 
 - Comprendre les différents algorithmes d'allocation de la mémoire physique
@@ -44,6 +48,8 @@ Notion théorique vue :
 
 ### Python
 
+IDE : PyCharm
+
 Le python fut le langage principal utilisé dans les cours de Cryptographie.
 
 C'est aussi avec ce langage que je résous souvent mes challenges sur root Me et dans les CTFs.
@@ -51,6 +57,8 @@ C'est aussi avec ce langage que je résous souvent mes challenges sur root Me et
 
 
 ### Java
+
+IDE : Intellij IDEA
 
 Un cours de programmation orienté Objet en Java a été suivi à l'HEIG. Celui-ci contenait les objectifs suivants :
 
@@ -60,7 +68,11 @@ Un cours de programmation orienté Objet en Java a été suivi à l'HEIG. Celui-
 - utiliser une conception orientée objet dans un contexte de programmation événementielle.
 - utiliser les modèles de conception réutilisables MVC et Observateur.
 
+
+
 ### PHP
+
+IDE : PhpStorm
 
 Avec le PHP, j'ai programmé :
 
@@ -69,6 +81,8 @@ Avec le PHP, j'ai programmé :
 -Au sein d'un groupe de 3, un autre site web
 
 -Un Backend php avec un front-end Angular pour un projet de semestre à 5.
+
+
 
 ### MySQL
 
@@ -98,8 +112,14 @@ J'ai suivi un cours de programmation assembleur à l'HEIG-D. Le cours comprenait
 
 L'assembleur était également au programme du cours de sécurité logicielle où il fallait comprendre le fonctionnement des programmes avec le logiciel Ghidra afin d'y trouver des vulnérabilités.
 
+### C#
+
+Lors de mon CFC, j'ai suivi un cours d'introduction au c# où j'ai pu réalisé quelques petites applications.
+
+IDE :  Visual Studio
 
 
-Image de couverture
 
-Image par <a href="https://pixabay.com/fr/users/jmexclusives-10518280/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6205177">Joseph Mucira</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6205177">Pixabay</a>
+## Image de couverture
+
+Image par <a href="https://pixabay.com/fr/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=557615">Gerd Altmann</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=557615">Pixabay</a>

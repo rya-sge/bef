@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Langues : Français, English, Deutsch"
+title: "Langues : Français, Anglais, Allemand"
 img: flags-langues.png
 date: 2021-08-07
 description: 
