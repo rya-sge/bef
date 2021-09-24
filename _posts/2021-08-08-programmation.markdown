@@ -45,6 +45,9 @@ Certaines notion vues ont pu également être entrainée en Java, voire pour cer
 - récapitulation sur la représentation par matrice de contiguïté et par listes d'adjacence; 
 - cheminements et connexités (notions de chemin, chaine, cycle et circuit, fermeture transitive d'un graphe, notions de connexité, notion de graphe eulérien, notion de graphe hamiltonien); 
 - appliquer les parcours en profondeur et en largeur sur des graphes non pondérés, orientés ou non ;
+- Appliquer le tri topologique pour redessiner un graphe orienté acyclique (Directed
+  Acyclic Graph ou DAG) pour que tous ses arcs pointent dans la
+  même direction
 - plus courts chemins: définitions, algorithme de Dijkstra, algorithme de Bellman-Ford;
 - appliquer les parcours d'arbre recouvrant de poids minimum (ARPM) sur des graphes pondérés, orientés ou non ;
   -  algorithme de Kruskal, algorithme de Prim; complexités des algorithmes étudiés. 
@@ -65,23 +68,6 @@ Certaines notion vues ont pu également être entrainée en Java, voire pour cer
 - acquérir de l'expérience dans l'analyse et la conception de code, la détection et la correction d'erreurs de programmation;
 - exercer la rédaction de rapports de laboratoire (taille moyenne); 
 - concevoir et développer des applications de taille moyenne, étudier des sujets plus conséquents algorithmiques.
-
-## Cours 
-
-- Graphes : 
-  - parcours de graphes: 
-
-    -  arborescence couvrante associée à un parcours, 
-    -  parcours en largeur, 
-    -  applications du parcours en largeur (composantes connexes d'un graphe non orienté, chercher le plus court chemin, sommets accessibles à partir d'un sommet initial), 
-    -  parcours en profondeur, 
-    -  applications du parcours en profondeur (recherche de circuits, tri topologique des sommets d'un graphe orienté, recherche des composantes fortement connexes d'un graphe orienté); 
-
-    
-
-  
-
-
 
 
 Source image de couverture
