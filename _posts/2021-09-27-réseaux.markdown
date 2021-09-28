@@ -1,0 +1,58 @@
+---
+layout: post
+title: "Réseaux"
+img: network-782707_1280.png
+date: 2021-09-28
+description: 
+tag: [wifi, wan lan, tcp, dhcp]
+---
+
+Durant ma formation, j'ai suivi plusieurs cours traitant du réseaux
+
+## Téléinformatique de base
+
+Charge de travail : 90 heures d'études
+
+- commutation par paquets, modèles OSI et DoD, protocoles, encapsulation, équipements de réseau 2
+- Réseaux LAN: câblage, Ethernet, adresses MAC et IP, DHCP, ARP 
+- Réseaux WiFi : normes, couche MAC, sécurité, performances 
+-  Réseaux WAN : structure d'Internet, routage, adressage IP, NAT, protocole IP 
+- Routage dans un réseau WAN : principes et protocoles 
+- DNS: résolution de noms de domaines 
+-  La messagerie électronique (e-mail) comme exemple d'un service sur Internet 
+- Le protocole TCP 2
+- Evolution du réseau: sécurité, migration à IPv6
+
+## Réseaux
+
+Charge de travail : 120 heures d'études
+
+- Concepts de programmation réseau et présentation de la Socket API dans différents langages
+
+- HTTP: 
+
+  - étude du protocole et des éléments liés à l'infrastructure (e.g. reverse proxy)
+  -  Développement d'un client et/ou d'un serveur simple 
+  -  Conception et implémentation d'une infrastructure avec un reverse proxy et plusieurs serveurs 
+
+- Messagerie: études des protocoles principaux 
+
+- Protocoles de transferts de fichiers et d'accès à distance: études des protocoles et outils 
+
+- Développement d'une application client-serveur 
+
+- Messagerie: implémentation d'un client simple 
+
+  
+
+## Sécurité des réseaux
+
+Charge de travail : 90 heures d'études
+
+- Menaces réseaux 
+- Pare-feux et IDS/IPS 
+- Réseaux privés virtuels (VPN) et VLAN 
+- Réseaux sans fil 
+- Systèmes d'authentification
+
+Image par <a href="https://pixabay.com/fr/users/jeferrb-590530/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=782707">jeferrb</a> de <a href="https://pixabay.com/fr/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=782707">Pixabay</a>

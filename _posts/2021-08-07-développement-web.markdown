@@ -28,6 +28,8 @@ Dans le cadre du projet de semestre, au sein d'un groupe de 5, nous avons conçu
 
 Lors de mon CFC, j'ai réalisé un site web en PHP pour mon travail de fin de CFC. Le code a un peu vieillit mais vous trouvez la documentation et le projet sur github.
 
+Lien du dépôt : [https://github.com/rya-sge/travail-cfc](https://github.com/rya-sge/travail-cfc)
+
 
 
 ## Loisirs
