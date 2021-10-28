@@ -17,6 +17,7 @@ Le cours de cryptographie suivi à l'HEIG portait sur le contenu suivant :
 - Crible d'Eratosthène, l'algorithme d'Euclide pour calculer un PGCD ainsi que
   l'algorithme d'Euclide étendu pour calculer l'identité de Bézout;
 - Courbes elliptiques 
+  - [Le Logarithme Discret sur courbe elliptique avec SageMath](https://rya-sge.github.io/access-denied/2021/07/30/logarithme-discret-courbe-elliptique/)
 
 ## Cryptographie 
 
@@ -25,12 +26,23 @@ Le cours de cryptographie suivi à l'HEIG portait sur le contenu suivant :
 - Algorithmes de chiffrement symétriques 
 - Authentification symétrique
 - Chiffrement à clef publique  (RSA, Diffie-Hellman, El Gamal)
+  - Diffie-Hellman : [Diffie-Hellman expliqué en python](https://rya-sge.github.io/access-denied/2021/10/28/diffie-hellman-python/)
+  - RSA: [Chiffrement RSA avec SageMath](https://rya-sge.github.io/access-denied/2021/07/27/chiffrement-rsa-sagemath/)
 - Signatures digitales  (signature RSA, DSA)
 - Cryptographie pratique 
 - Infrastructure à clefs publiques (PKI)
 - Aperçu du protocole SSL/TLS, de son utilisation ainsi que de son fonctionnement interne;
 
-Le langage utilisé dans les laboratoires étaient le python, avec également l'utilisation de la librairie mathématique Sage.
+Les laboratoires étaient réalisés en python3 avec parfois l'utilisation de la librairie mathématique SageMath.
+
+- Laboratoire 1 : Cryptanalyse du Chiffre de César et de Vigenère
+
+- Laboratoire 2 : CBC-MAC & Algorithme de chiffrement par blocs
+
+- laboratoire 3 : El Gamal, CRT et mauvaise implémentation de RSA
+
+- Laboratoire 4 : Implémenter une PKI et de l’utiliser pour signer des emails ainsi que
+  pour configurer une connexion HTTPS.
 
 
 

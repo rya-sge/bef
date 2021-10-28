@@ -18,7 +18,9 @@ J'ai pu réalisé un site web dans le cadre du cours de Base De Donnée relation
 
 ### 2021 - Application Angular
 
-Dans le cadre du projet de semestre, au sein d'un groupe de 5, nous avons conçus une application web avec un front-end Angular et un Backend en PHP
+Dans le cadre du projet de semestre, au sein d'un groupe de 5, nous avons conçus une application web avec un front-end Angular et un Backend en PHP.
+
+Le projet est disponible publiquement sur github à l'adresse suivante : [https://github.com/rya-sge/PRO-Angular-Php](https://github.com/rya-sge/PRO-Angular-Php)
 
 
 
@@ -46,7 +48,7 @@ Ce site web ainsi que mon second site Acceed-Denied a été conçu avec github p
 
 Dans le cadre de mes loisirs, j'ai créer un site sur wordpress :
 
-Pendant 2 ans, au sein d'une équipe de 4-6 personnes, nous l'avons utilisés pour écrire des articles sur les mangas et les dessins animés : http://mangalerie.fr
+Pendant 2 ans, au sein d'une équipe de 4-6 personnes, nous l'avons utilisés pour écrire des articles sur les mangas et les dessins animés : [http://mangalerie.fr](http://mangalerie.fr)
 
 
 
