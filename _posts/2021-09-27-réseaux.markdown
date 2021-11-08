@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Réseaux"
-img: network-782707_1280.png
+img: network.jpg
 date: 2021-09-28
 description: 
 tag: [wifi, wan lan, tcp, dhcp]
