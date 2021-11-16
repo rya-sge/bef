@@ -3,8 +3,8 @@ layout: post
 title: "Algorithme & Programmation"
 img: texture-3319946_1920.jpg
 date: 2021-08-08
-description: Algortihme, Tri
-tag: [Travel, Texas, Canyon]
+description: Algorithme, Tri
+tag: [hashage, tri, c++, arbre, graphe]
 ---
 
 Lors de mon bachelor, j'ai pu suivre plusieurs cours d'algorithme et de programmation.
@@ -51,6 +51,7 @@ Certaines notion vues ont pu également être entrainée en Java, voire pour cer
 - plus courts chemins: définitions, algorithme de Dijkstra, algorithme de Bellman-Ford;
 - appliquer les parcours d'arbre recouvrant de poids minimum (ARPM) sur des graphes pondérés, orientés ou non ;
   -  algorithme de Kruskal, algorithme de Prim; complexités des algorithmes étudiés. 
+  -  Un article est disponible sur mon site :  [Access-Denied - Arbre recouvrant de poids minimum (MST / ACM)](https://rya-sge.github.io/access-denied/2021/08/22/arbre-recouvrant-poids-minimum/)
 - Appliquer le parcours d' arbre couvrant minimum (ACPC ) sur des graphes pondérés, orientés ou non;
 - calculer les composantes fortement connexes d'un graphe orienté ;
 
